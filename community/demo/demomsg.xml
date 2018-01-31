@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEVICEMESSAGES
+	 name="demo"
+	 displayname="demo"
+	 group="Application Servers"
+	 type="7104">
+<VERSION
+	 xml="1"
+	 revision="1"
+	 device="2.0"/>
+<TAGVALMAP/>
+<HEADER
+	 id1="HDR1"
+	 id2="HDR1"
+	 content="&lt;month&gt;&lt;date&gt;&lt;time&gt;&lt;hostip&gt; vendor=Websense product=Security product_version=&lt;version&gt; action=&lt;messageid&gt; &lt;!payload&gt;"/>
+<MESSAGE
+	 id1="blocked"
+	 id2="blocked"
+	 content="severity=&lt;severity&gt; websense_category=&lt;fld&gt; src_host=&lt;fld&gt; src_port=&lt;fld&gt; dst_host=&lt;fld&gt; dst_ip=&lt;fld&gt; dst_port=&lt;fld&gt; protocol=&lt;fld&gt;"/>
+</DEVICEMESSAGES>
